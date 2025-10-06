@@ -1,0 +1,109 @@
+{
+  "username": "Thông tin DnD",
+  "content": "Danh sách thành viên tham gia và đường link liên kết câu chuyện, kĩ năng nhân vật",
+  "embeds": [
+    {
+      "fields": [
+        {
+          "name": "Akuma - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1VWX3tlSmYFbgDOuZx09muSb9TSEkx5SPZA3h4glQH8k/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Artyom",
+          "value": "[Thông tin](https://docs.google.com/document/d/1jr4w9kjKrRBGXqNX4SyOzEN3KeLmUV_GWvb83p3Ivco/edit?usp=sharing)",
+          "inline": true
+        },
+        {
+          "name": "Ati / Sie - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1hkgiRNOOUyLEfW4GsjtfDe_CFs1zPsxGko_Cq6kgOA4/edit?tab=t.239paxpzfmcb#heading=h.ym3rq3jjtriz)",
+          "inline": true
+        },
+        {
+          "name": "Barbatos - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1KF_eYSeTIJXHNYhNHH4RJBtVTkZTT0YSUWnY7P5TrK4/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Eldros Silverwind",
+          "value": "[Thông tin](https://docs.google.com/document/d/1Q8c8gk_pxmBP8McOySGMUiwCo4R1uc9E2lZPrIEnOWY/edit?usp=sharing)",
+          "inline": true
+        },
+        {
+          "name": "Emyre - Lost",
+          "value": "[Thông tin](https://docs.google.com/document/d/1Bgwf7q4Y2A3fKiH0mMPuN5CRIQHel-7cE6J_qJzlZLo/edit?tab=t.0)\n",
+          "inline": true
+        },
+        {
+          "name": "Geleven - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1Y-clEc06TCSZVW3KuvGF56hKuJX4NuvYisgvRbOc-Jo/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Kael Warden",
+          "value": "[Thông tin](https://docs.google.com/document/d/1YzOxTyV0iotaDL8_bHi7qFHgQ5x1zYjNvTj84oPlsTk/edit?usp=sharing)",
+          "inline": true
+        },
+        {
+          "name": "Laziee - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1IQFDCLHMdRNWBjNIpwVZU7nxtlbAeX68wNgDR_9Yi6s/edit?addon_store&tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Liu-Shan",
+          "value": "[Thông tin](https://docs.google.com/document/d/15IcH5q6ag6LZTsKozHuglAoZiyMxr7qZ-cQiuTwGcQE/edit?tab=t.0)\n[Story](https://docs.google.com/document/d/11iWTgEmKSe1ueIL6F1l7zfiYkjiN8CT4RpJgPTnUaR8/edit?tab=t.0)\n[Phàm phế công](https://docs.google.com/document/d/1mF8UqcAW-EidriM3ydBqY-zZzTrQ4xNA7BFx72uMRI0/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Luca Lycan - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/13zrqVA1RdB82mG_gKbQjm-AZfxYvOJkVcAwVpXz9WN4/edit?usp=sharing)",
+          "inline": true
+        },
+        {
+          "name": "Lucass",
+          "value": "[Thông tin](https://docs.google.com/document/d/1U34gqQC7Y-diWQEILhyp-kJ9osebBTs2xyFifOGjtO0/edit?usp=sharing)\n[Story](https://docs.google.com/document/d/1J2Ladwql42MlwD_y2s9BjZwU793TEcvHq1bwr0lQVdk/edit?usp=sharing)",
+          "inline": true
+        },
+        {
+          "name": "Malrik - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1x6Kkg69crXBh5DKA52TwI93QSXmtPG--hSd0AKq7fQ0/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Rei - RIP",
+          "value": "[Thông tin](https://docs.google.com/document/d/1fvUD43NP4Joi9Be5xQAyLf5kit0H2lsFUY6lCMhHiC8/edit?tab=t.q3f0rgx9sscd)",
+          "inline": true
+        },
+        {
+          "name": "Tom Halan",
+          "value": "[Thông tin](https://docs.google.com/document/d/1r8ZWsqoTmCs1J_cE5mp1hET1kqWUSZALiVPC8icONTI/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Ashen One",
+          "value": "[Thông tin](https://docs.google.com/document/d/1ec6IGLH3w2Rd6Mlrf9lDaj5y68CdA02_WADLMKrGEM8/edit?tab=t.0A)",
+          "inline": true
+        },
+        {
+          "name": "Vergil",
+          "value": "[Thông tin](https://docs.google.com/document/d/1EppnJ3_ihUnEFp4dhYBmNSB0OXjyStASrjsaC1Oc0Jo/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Lucy",
+          "value": "[Thông tin](https://docs.google.com/document/d/1lKEHt_adGOGF_rINhRLNj8dpDcQb7eneKUg53Pt0Wq0/edit?tab=t.0)",
+          "inline": true
+        },
+        {
+          "name": "Gia Tử Cát",
+          "value": "[Thông tin](https://docs.google.com/document/d/1eP_Sw05pR5sTBSbDQckTLnaNByRA-as8HM2JZxzphWo/edit?tab=t.0)",
+          "inline": true
+        }
+      ],
+      "timestamp": "2025-10-05T17:00:00.000Z",
+      "footer": {
+        "text": "Last update"
+      }
+    }
+  ]
+}
